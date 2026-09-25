@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: personal-site.github.io/quartz
+  baseUrl: https://chandrakantb000.github.io/personal-site/
   ignorePatterns:
     - private
     - templates
