@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://chandrakantb000.github.io/personal-site/
+  baseUrl: csborle.xyz
   ignorePatterns:
     - private
     - templates
